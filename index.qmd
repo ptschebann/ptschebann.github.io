@@ -9,7 +9,7 @@ toc: false
 
 ::: {.g-col-12 .g-col-md-7}
 
-<p class="eyebrow">Urban geography · GIS · Vienna</p>
+<p class="eyebrow">Urban geography · Spatial analysis · Social sustainability</p>
 
 # Patricia Tschebann
 
@@ -26,7 +26,7 @@ My work combines GIS and spatial data analysis with urban research to investigat
 
 ::: {.g-col-12 .g-col-md-5}
 
-![Spatial redundancy of Vienna's public waste collection infrastructure.](images/waste-resilience/waste-redundancy-vienna.png){.hero-map}
+[![](images/waste-resilience/waste-redundancy-vienna.png){.hero-map fig-alt="Map showing spatial redundancy of Vienna's public waste collection infrastructure."}](projects/vienna-waste-resilience.qmd)
 
 :::
 

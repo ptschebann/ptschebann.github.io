@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Email · Vienna, Austria"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nMSc Geographies of Global Change and Sustainability Transformations\nUniversity of Vienna · since 2025\nSpecialisation in Urban Studies, with a focus on socially sustainable urban development, accessibility and spatial inequality.\n\n\nBA Cultural and Social Anthropology\nUniversity of Vienna · since 2025\nAdditional training in qualitative research, critical theory and the analysis of social and cultural processes.\n\n\nBSc Geography\nUniversity of Vienna · 2021–2025\nFocus on urban development, spatial planning, cartography and qualitative and quantitative research methods."
+  },
+  {
+    "objectID": "cv.html#selected-research-and-project-experience",
+    "href": "cv.html#selected-research-and-project-experience",
+    "title": "CV",
+    "section": "Selected research and project experience",
+    "text": "Selected research and project experience\n\nVienna Waste Resilience\nIndependent spatial analysis · 2026\n\nDeveloped a PostgreSQL/PostGIS workflow for analysing public waste collection infrastructure.\nConstructed a 250 m analytical grid and calculated spatial redundancy and second-nearest-site accessibility.\nDesigned a simulated collection-site failure scenario.\nProduced publication-ready thematic maps and documented methodological limitations.\n\n\n\nResidential Locations and Everyday Accessibility in San Luis Obispo\nMaster’s thesis research · ongoing\n\nDeveloping a GIS-based analysis of access to everyday infrastructure.\nCombining accessibility measures with demographic, land-use and planning data.\nExamining spatial patterns in the context of socially sustainable urban development.\n\n\n\nHousing in the City Region of Lienz\nApplied research project · 2025\n\nAnalysed the regional housing supply.\nContributed to surveys and stakeholder workshops.\nCollaborated with actors from public administration, education and regional development.\nPrepared findings for planning-oriented communication.\n\n\n\nSolar Site Suitability in the Waldviertel\nGroup GIS project · 2024\n\nContributed to a multi-criteria site suitability analysis for photovoltaic infrastructure.\nWorked with terrain, land-use, accessibility and visibility criteria in ArcGIS Pro.\nParticipated in fieldwork and project documentation."
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "CV",
+    "section": "Professional experience",
+    "text": "Professional experience\n\nCustomer Care Agent, 2nd Level Support\nORF DIGITAL, Vienna · 2020–2026\n\nResolved complex technical and administrative inquiries.\nMaintained structured databases and back-office workflows.\nCoordinated between customer service, technical teams and internal departments.\n\n\n\nInternship\nFederal Ministry of Social Affairs, Health, Care and Consumer Protection · 2019\n\nSupported public communication and information projects.\nPrepared presentation and campaign materials.\nAssisted with administrative coordination."
+  },
+  {
+    "objectID": "cv.html#methods-and-technical-skills",
+    "href": "cv.html#methods-and-technical-skills",
+    "title": "CV",
+    "section": "Methods and technical skills",
+    "text": "Methods and technical skills\nGIS and spatial analysis: QGIS, ArcGIS Pro, PostgreSQL/PostGIS\nData analysis: SQL, Python, SPSS\nQualitative research: MAXQDA, qualitative coding, document and policy analysis\nCommunication: thematic cartography, academic writing, presentations\nLanguages: German — native; English — B2; Italian — A1"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Patricia Tschebann",
+    "section": "",
+    "text": "Urban geography · GIS · Vienna\n\n\n\n\n\nI am a Vienna-based geographer and master’s student in Geographies of Global Change and Sustainability Transformations at the University of Vienna.\nMy work combines GIS and spatial data analysis with urban research to investigate accessibility, environmental justice and socially sustainable urban development.\nExplore my projects About me\n\n\n\n\n\n\n\nSpatial redundancy of Vienna’s public waste collection infrastructure."
+  },
+  {
+    "objectID": "index.html#spatial-analysis-for-socially-sustainable-cities",
+    "href": "index.html#spatial-analysis-for-socially-sustainable-cities",
+    "title": "Patricia Tschebann",
+    "section": "",
+    "text": "I am a Vienna-based geographer and master’s student in Geographies of Global Change and Sustainability Transformations at the University of Vienna.\nMy work combines GIS and spatial data analysis with urban research to investigate accessibility, environmental justice and socially sustainable urban development.\nExplore my projects About me"
+  },
+  {
+    "objectID": "index.html#areas-of-focus",
+    "href": "index.html#areas-of-focus",
+    "title": "Patricia Tschebann",
+    "section": "Areas of focus",
+    "text": "Areas of focus\n\n\nSpatial analysis\nGIS-based analysis of accessibility, infrastructure provision and spatial inequality using QGIS, ArcGIS Pro, PostgreSQL/PostGIS and SQL.\n\n\nUrban research\nResearch on housing, public space, everyday infrastructure and urban transformation using quantitative and qualitative methods.\n\n\nSustainability\nAnalysis of environmental justice, urban resilience and socially sustainable planning across different spatial contexts."
+  },
+  {
+    "objectID": "index.html#featured-project",
+    "href": "index.html#featured-project",
+    "title": "Patricia Tschebann",
+    "section": "Featured project",
+    "text": "Featured project\n\nVienna Waste Resilience\nA PostGIS-based analysis of spatial redundancy and backup accessibility within Vienna’s public waste collection infrastructure.\nView project"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of projects in spatial analysis, urban geography and sustainability research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVienna Waste Resilience\n\n\n\nPostGIS\n\nSpatial Analysis\n\nUrban Infrastructure\n\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a geographer and master’s student based in Vienna. I hold a BSc in Geography and currently study Geographies of Global Change and Sustainability Transformations as well as Cultural and Social Anthropology at the University of Vienna.\nMy academic and project work focuses on urban geography, spatial inequality, accessibility and socially sustainable development. I am particularly interested in connecting spatial data analysis with an understanding of how urban environments are experienced, governed and transformed."
+  },
+  {
+    "objectID": "about.html#profile",
+    "href": "about.html#profile",
+    "title": "About",
+    "section": "",
+    "text": "I am a geographer and master’s student based in Vienna. I hold a BSc in Geography and currently study Geographies of Global Change and Sustainability Transformations as well as Cultural and Social Anthropology at the University of Vienna.\nMy academic and project work focuses on urban geography, spatial inequality, accessibility and socially sustainable development. I am particularly interested in connecting spatial data analysis with an understanding of how urban environments are experienced, governed and transformed."
+  },
+  {
+    "objectID": "about.html#research-approach",
+    "href": "about.html#research-approach",
+    "title": "About",
+    "section": "Research approach",
+    "text": "Research approach\nI combine quantitative spatial analysis with qualitative and policy-oriented research. Depending on the research problem, my work draws on GIS, SQL/PostGIS, statistical analysis, document analysis and qualitative coding.\nThis combination allows me to examine both the measurable spatial distribution of infrastructure and the social or institutional processes behind these patterns."
+  },
+  {
+    "objectID": "about.html#current-interests",
+    "href": "about.html#current-interests",
+    "title": "About",
+    "section": "Current interests",
+    "text": "Current interests\n\nUrban accessibility and everyday infrastructure\nEnvironmental justice and spatial inequality\nHousing and socially sustainable urban development\nUrban resilience and public infrastructure\nMixed-methods urban research"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nMSc Geographies of Global Change and Sustainability Transformations\nUniversity of Vienna, since 2025\nSpecialisation: Urban Studies\nBA Cultural and Social Anthropology\nUniversity of Vienna, since 2025\nBSc Geography\nUniversity of Vienna, 2021–2025\nFocus: urban development, spatial planning and research methods"
+  },
+  {
+    "objectID": "about.html#methods-and-tools",
+    "href": "about.html#methods-and-tools",
+    "title": "About",
+    "section": "Methods and tools",
+    "text": "Methods and tools\nSpatial analysis: QGIS, ArcGIS Pro, PostgreSQL/PostGIS\nData analysis: SQL, Python, SPSS\nQualitative research: MAXQDA, document analysis, qualitative coding\nCommunication: cartography, academic writing and research presentations"
+  }
+]

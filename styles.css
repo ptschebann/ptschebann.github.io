@@ -1,0 +1,138 @@
+
+/* Colour system */
+:root {
+  --portfolio-dark: #173b46;
+  --portfolio-teal: #318a96;
+  --portfolio-orange: #d9822b;
+  --portfolio-light: #f5f4ef;
+  --portfolio-text: #263238;
+}
+
+/* General typography */
+body {
+  color: var(--portfolio-text);
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--portfolio-dark);
+  font-weight: 650;
+}
+
+h1 {
+  letter-spacing: -0.025em;
+}
+
+a {
+  color: var(--portfolio-teal);
+}
+
+/* Navigation */
+.navbar {
+  background-color: var(--portfolio-dark);
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #d9eef0 !important;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--portfolio-teal);
+  border-color: var(--portfolio-teal);
+}
+
+.btn-primary:hover {
+  background-color: var(--portfolio-dark);
+  border-color: var(--portfolio-dark);
+}
+
+.btn-outline-secondary {
+  color: var(--portfolio-dark);
+  border-color: var(--portfolio-dark);
+}
+
+/* Project cards */
+.card {
+  border: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 18px rgba(23, 59, 70, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(23, 59, 70, 0.16);
+}
+
+/* Page elements */
+.quarto-title-banner {
+  background-color: var(--portfolio-light);
+}
+
+img {
+  border-radius: 4px;
+}
+/* Homepage hero */
+.hero-section {
+  padding: 4rem 6vw;
+  margin-bottom: 4rem;
+  background:
+    linear-gradient(135deg, #eef5f4 0%, #f8f6ef 100%);
+  border-radius: 0 0 24px 24px;
+}
+
+.hero-section h1 {
+  margin-top: 0.4rem;
+  margin-bottom: 0.5rem;
+  font-size: clamp(3rem, 7vw, 5.8rem);
+  line-height: 0.95;
+}
+
+.hero-section h2 {
+  max-width: 700px;
+  margin-bottom: 1.5rem;
+  font-size: clamp(1.5rem, 3vw, 2.3rem);
+  font-weight: 450;
+}
+
+.eyebrow {
+  color: var(--portfolio-orange);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.hero-map {
+  width: 100%;
+  margin-top: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 12px 32px rgba(23, 59, 70, 0.18);
+}
+
+.content-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 4vw 4rem;
+}
+
+.focus-card {
+  padding: 1.5rem;
+  border-top: 4px solid var(--portfolio-teal);
+  border-radius: 6px;
+  background-color: white;
+  box-shadow: 0 4px 18px rgba(23, 59, 70, 0.08);
+}
+
+.focus-card h3 {
+  margin-top: 0;
+}

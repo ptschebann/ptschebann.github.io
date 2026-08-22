@@ -1,0 +1,11 @@
+---
+title: "Vienna Waste Resilience"
+subtitle: "A PostGIS analysis of spatial redundancy and backup accessibility"
+date: "2026"
+image: ../images/waste-resilience/waste-redundancy-vienna.png
+categories:
+  - PostGIS
+  - Spatial Analysis
+  - Urban Infrastructure
+toc: true
+---

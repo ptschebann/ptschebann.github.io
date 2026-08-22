@@ -1,0 +1,43 @@
+---
+title: "About"
+---
+
+## Profile
+
+I am a geographer and master's student based in Vienna. I hold a BSc in Geography and currently study *Geographies of Global Change and Sustainability Transformations* as well as Cultural and Social Anthropology at the University of Vienna.
+
+My academic and project work focuses on urban geography, spatial inequality, accessibility and socially sustainable development. I am particularly interested in connecting spatial data analysis with an understanding of how urban environments are experienced, governed and transformed.
+
+## Research approach
+
+I combine quantitative spatial analysis with qualitative and policy-oriented research. Depending on the research problem, my work draws on GIS, SQL/PostGIS, statistical analysis, document analysis and qualitative coding.
+
+This combination allows me to examine both the measurable spatial distribution of infrastructure and the social or institutional processes behind these patterns.
+
+## Current interests
+
+- Urban accessibility and everyday infrastructure
+- Environmental justice and spatial inequality
+- Housing and socially sustainable urban development
+- Urban resilience and public infrastructure
+- Mixed-methods urban research
+
+## Education
+
+**MSc Geographies of Global Change and Sustainability Transformations**  
+University of Vienna, since 2025  
+Specialisation: Urban Studies
+
+**BA Cultural and Social Anthropology**  
+University of Vienna, since 2025
+
+**BSc Geography**  
+University of Vienna, 2021–2025  
+Focus: urban development, spatial planning and research methods
+
+## Methods and tools
+
+**Spatial analysis:** QGIS, ArcGIS Pro, PostgreSQL/PostGIS  
+**Data analysis:** SQL, Python, SPSS  
+**Qualitative research:** MAXQDA, document analysis, qualitative coding  
+**Communication:** cartography, academic writing and research presentations

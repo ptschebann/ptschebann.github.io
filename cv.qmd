@@ -1,0 +1,88 @@
+---
+title: "CV"
+toc: true
+---
+
+[Email](mailto:patricia.tschebann@icloud.com) · Vienna, Austria
+
+## Education
+
+### MSc Geographies of Global Change and Sustainability Transformations
+
+**University of Vienna · since 2025**
+
+Specialisation in Urban Studies, with a focus on socially sustainable urban development, accessibility and spatial inequality.
+
+### BA Cultural and Social Anthropology
+
+**University of Vienna · since 2025**
+
+Additional training in qualitative research, critical theory and the analysis of social and cultural processes.
+
+### BSc Geography
+
+**University of Vienna · 2021–2025**
+
+Focus on urban development, spatial planning, cartography and qualitative and quantitative research methods.
+
+## Selected research and project experience
+
+### Vienna Waste Resilience
+
+**Independent spatial analysis · 2026**
+
+- Developed a PostgreSQL/PostGIS workflow for analysing public waste collection infrastructure.
+- Constructed a 250 m analytical grid and calculated spatial redundancy and second-nearest-site accessibility.
+- Designed a simulated collection-site failure scenario.
+- Produced publication-ready thematic maps and documented methodological limitations.
+
+### Residential Locations and Everyday Accessibility in San Luis Obispo
+
+**Master's thesis research · ongoing**
+
+- Developing a GIS-based analysis of access to everyday infrastructure.
+- Combining accessibility measures with demographic, land-use and planning data.
+- Examining spatial patterns in the context of socially sustainable urban development.
+
+### Housing in the City Region of Lienz
+
+**Applied research project · 2025**
+
+- Analysed the regional housing supply.
+- Contributed to surveys and stakeholder workshops.
+- Collaborated with actors from public administration, education and regional development.
+- Prepared findings for planning-oriented communication.
+
+### Solar Site Suitability in the Waldviertel
+
+**Group GIS project · 2024**
+
+- Contributed to a multi-criteria site suitability analysis for photovoltaic infrastructure.
+- Worked with terrain, land-use, accessibility and visibility criteria in ArcGIS Pro.
+- Participated in fieldwork and project documentation.
+
+## Professional experience
+
+### Customer Care Agent, 2nd Level Support
+
+**ORF DIGITAL, Vienna · 2020–2026**
+
+- Resolved complex technical and administrative inquiries.
+- Maintained structured databases and back-office workflows.
+- Coordinated between customer service, technical teams and internal departments.
+
+### Internship
+
+**Federal Ministry of Social Affairs, Health, Care and Consumer Protection · 2019**
+
+- Supported public communication and information projects.
+- Prepared presentation and campaign materials.
+- Assisted with administrative coordination.
+
+## Methods and technical skills
+
+**GIS and spatial analysis:** QGIS, ArcGIS Pro, PostgreSQL/PostGIS  
+**Data analysis:** SQL, Python, SPSS  
+**Qualitative research:** MAXQDA, qualitative coding, document and policy analysis  
+**Communication:** thematic cartography, academic writing, presentations  
+**Languages:** German — native; English — B2; Italian — A1

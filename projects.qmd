@@ -1,0 +1,12 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+  type: grid
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: false
+---
+
+A selection of projects in spatial analysis, urban geography and sustainability research.
